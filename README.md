@@ -4,6 +4,13 @@
 #### 20182644 홍주혜
 
 
+### Device 페어링, 연결 실패 
+
+![연결실패](https://user-images.githubusercontent.com/94774284/211575038-7c1a32d1-03f2-45df-842b-2a1def3cf2ce.png)
+
+
+
+
 ### Emulator 연결
 
 ![애뮬연결](https://user-images.githubusercontent.com/94774284/211569814-2a73bc7e-aee4-42ca-be2d-9003b9846981.PNG)
