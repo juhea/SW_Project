@@ -28,3 +28,6 @@
 ### # Barcode 인식
 
 ![바코드](https://user-images.githubusercontent.com/94774284/212933571-3b172be1-1892-4f4c-9604-6683cd0f8061.jpg)
+
+
+### # QR코드 생성 ( 나의 github 주소로 이동 )
