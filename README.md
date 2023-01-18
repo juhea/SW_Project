@@ -6,7 +6,9 @@
 
 #### 20182644 홍주혜
 
+### 최종 발표 PPT
 
+https://docs.google.com/presentation/d/1tk_AUp96kj1wdInw6-Rvpzk9dMnZNoH1/edit?usp=sharing&ouid=117701096765562912938&rtpof=true&sd=true
 
 
 ### # Device 페어링 성공, 연결 실패 
