@@ -1,10 +1,13 @@
 # SW_Project
-# SW_프로젝트
+
 
 ## - Barcode 인식과 QR code 인식
 
 
 #### 20182644 홍주혜
+
+
+
 
 ### # Device 페어링 성공, 연결 실패 
 
